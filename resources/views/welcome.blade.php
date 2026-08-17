@@ -1722,7 +1722,7 @@
                     </h3>
 
                     <div class="role">
-                        Founder & Head of Engneering
+                        Founder & Head of Engineering
                     </div>
 
                     <p>
